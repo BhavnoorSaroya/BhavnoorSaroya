@@ -7,9 +7,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and make an impact wherever possible.
+
 🎓 &nbsp;I'm currently studying Computer Science at the British Columbia Institute of Technology.
+
 🌱 &nbsp;I'm learning more about Artificial Intelligence, Systems Design, and functional programming.
+
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
+
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
