@@ -2,9 +2,9 @@
 
 
 
-## 👋 &nbsp;Hey there! I'm Bhavnoor
+## Hey there! I'm Bhavnoor
 
-### 👨🏻‍💻 &nbsp;About Me
+### About Me
 
 - I like to explore new technologies and develop software solutions and make an impact wherever possible. 
 - I'm currently studying Computer Science at the British Columbia Institute of Technology.
