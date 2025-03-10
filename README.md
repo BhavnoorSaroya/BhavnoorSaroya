@@ -9,7 +9,7 @@
 - I like to explore new technologies and develop software solutions and make an impact wherever possible. 
 - I'm currently studying Computer Science at the British Columbia Institute of Technology.
 - I specialize in functional programming, database systems, and Iot.  
-- Reach out if you like talking about development, some of my favorite things to talk about are web development and functional programming, and cloud computing, but I love talking about anything in the dev world! 
+- Reach out if you like talking about development, some of my favorite things to talk about are web development, functional programming, and cloud computing, but I love talking about anything in the dev world! 
 - I'm a big fan of artisnal languages like rust, go, elixir, gleam, and ocaml. I also enjoy performance optimization, and finding innovative solutions.
 <!-- I believe that an optimally designed system should scale extremely well without a crazy aws or sever bill --> 
 
