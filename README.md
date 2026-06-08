@@ -1,8 +1,5 @@
 
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center" style="display: block;">
 <a href="https://github.com/BhavnoorSaroya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BhavnoorSaroya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
